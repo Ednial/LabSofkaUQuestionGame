@@ -18,8 +18,6 @@ public class Main implements Game{
 
     public static void main(String[] args) {
         game.gameStart();
-        System.out.println("Thanks for playing!");
-
     }
 
 
